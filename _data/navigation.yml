@@ -1,28 +1,28 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About US
+  url: "/about/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Products"
+  url: "/products/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "PDS Pattern Expert: Grid & Colors"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Grading: Typography"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Marking: Page/Post"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "AutoMarking: Post-Left-Sidebar"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "3D: Post-Right-Sidebar"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+  - title: "Cut Planner:Page Full-Width"
     url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "StyleManager: Blog-Page"
     url: "/blog/"
   - title: "Video"
     url: "/design/video/"
@@ -31,13 +31,17 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: Pricing
+  url: "/pricing/"
+  side: left
+
+- title: "Programs"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Training Programs: Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "3D VStitcher: Header with Image and Pattern"
     url: "/design/header-image-pattern/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
@@ -50,25 +54,25 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+# - title: "Search"
+#   url: "/search/"
+#   side: right
 
 - title: "Contact"
   url: "/contact/"
